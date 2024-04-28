@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer
 -----------------
 
-* 🌍  I'm based in Tunisa
+* 🌍  I'm based in France
 * ✉️  You can contact me at [fakhrimarzouki199@gmail.com](mailto:fakhrimarzouki199@gmail.com)
 * 🧠  I'm learning DevOps & Cloud tools
 
