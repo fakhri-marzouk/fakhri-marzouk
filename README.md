@@ -5,7 +5,7 @@ Software engineer
 -----------------
 
 * 🌍  I'm based in France
-* ✉️  You can contact me at [fakhrimarzouki199@gmail.com](mailto:fakhrimarzouki199@gmail.com)
+> * ✉️  You can contact me at [fakhri.marzouk@gmail.com](mailto:fakhri.marzouk@gmail.com)
 * 🧠  I'm learning DevOps & Cloud tools
 
 ### Skills
